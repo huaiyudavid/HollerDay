@@ -1,0 +1,5 @@
+<Page loaded="loaded">
+    <Label text="Happy" horizontalAlignment="center"/>
+    <Label text="{{ hday }}" horizontalAlignment="center"/>
+    <!-- <ActivityIndicator busy="{{ isLoading }}"/> -->
+</Page>
